@@ -5,11 +5,23 @@
 | Day 1 | Two Sum | Hashmap | O(n) | ✅ |
 | Day 2 | Add Two Numbers | Linked List with Carry | O(max(m,n)) | ✅ |
 | Day 3 | Longest Substring Without Repeating Characters | Sliding Window + Set | O(n) | ✅ |
+| Day 4 | Median of Two Sorted Arrays | Merge + Sort | O((m+n) log(m+n)) | ✅ |
 
-**Current Streak:** 🔥 3 days
-**Total Solved:** 3 problems
-**Days Remaining:** 362
+**Current Streak:** 🔥 4 days  
+**Total Solved:** 4 problems  
+**Days Remaining:** 361
 
-### 🏆 Badges Earned
-- ✅ Week 1: 3/7 completed
-- 🔥 Current Streak: 3 days
+---
+
+## 🏆 Badges Earned
+
+| Badge | Status |
+|-------|--------|
+| Week 1 Progress | 4/7 completed ✅ |
+| Current Streak | 4 days 🔥 |
+| First Hard Problem | ✅ Median of Two Arrays |
+| Consistency Streak | 4 days strong 💪 |
+
+---
+
+## 📈 Weekly Target
