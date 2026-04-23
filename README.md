@@ -5,7 +5,8 @@
 | Day 3 | Longest Substring Without Repeating Characters | Sliding Window + Set | O(n) | ✅ |
 | Day 4 | Median of Two Sorted Arrays | Merge + Sort | O((m+n) log(m+n)) | ✅ |
 | Day 5 | Longest Palindromic Substring | Expand Around Center | O(n²) | ✅ |
+| Day 6 | Zigzag Conversion | Row Simulation | O(n) | ✅ |
 
-**Current Streak:** 🔥 5 days
-**Total Solved:** 5 problems
-**Days Remaining:** 360
+**Current Streak:** 🔥 6 days
+**Total Solved:** 6 problems
+**Days Remaining:** 359
