@@ -9,7 +9,10 @@
 | Day 7 | Reverse Integer | Math + Overflow Check | O(log n) | ✅ |
 | Day 8 | String to Integer (atoi) | Step Parsing | O(n) | ✅ |
 | Day 9 | Palindrome Number | Reverse Integer | O(log n) | ✅ |
+| Day 10 | Regular Expression Matching | Recursion + DP | O(m×n) | ✅ |
 
-**Current Streak:** 🔥 9 days
-**Total Solved:** 9 problems
-**Days Remaining:** 356
+**Current Streak:** 🔥 10 days
+**Total Solved:** 10 problems
+**Days Remaining:** 355
+
+🎉 **Milestone: 10 DAYS COMPLETED!** 🎉
