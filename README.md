@@ -10,9 +10,8 @@
 | Day 8 | String to Integer (atoi) | Step Parsing | O(n) | ✅ |
 | Day 9 | Palindrome Number | Reverse Integer | O(log n) | ✅ |
 | Day 10 | Regular Expression Matching | Recursion + DP | O(m×n) | ✅ |
+| Day 11 | Container With Most Water | Two Pointers | O(n) | ✅ |
 
-**Current Streak:** 🔥 10 days
-**Total Solved:** 10 problems
-**Days Remaining:** 355
-
-🎉 **Milestone: 10 DAYS COMPLETED!** 🎉
+**Current Streak:** 🔥 11 days
+**Total Solved:** 11 problems
+**Days Remaining:** 354
