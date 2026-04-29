@@ -11,7 +11,8 @@
 | Day 9 | Palindrome Number | Reverse Integer | O(log n) | ✅ |
 | Day 10 | Regular Expression Matching | Recursion + DP | O(m×n) | ✅ |
 | Day 11 | Container With Most Water | Two Pointers | O(n) | ✅ |
+| Day 12 | Integer to Roman | Greedy | O(1) | ✅ |
 
-**Current Streak:** 🔥 11 days
-**Total Solved:** 11 problems
-**Days Remaining:** 354
+**Current Streak:** 🔥 12 days
+**Total Solved:** 12 problems
+**Days Remaining:** 353
