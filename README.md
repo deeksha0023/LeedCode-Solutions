@@ -12,7 +12,8 @@
 | Day 10 | Regular Expression Matching | Recursion + DP | O(m×n) | ✅ |
 | Day 11 | Container With Most Water | Two Pointers | O(n) | ✅ |
 | Day 12 | Integer to Roman | Greedy | O(1) | ✅ |
+| Day 13 | Roman to Integer | Hashmap + Subtraction | O(n) | ✅ |
 
-**Current Streak:** 🔥 12 days
-**Total Solved:** 12 problems
-**Days Remaining:** 353
+**Current Streak:** 🔥 13 days
+**Total Solved:** 13 problems
+**Days Remaining:** 352
